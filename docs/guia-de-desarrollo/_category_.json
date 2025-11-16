@@ -1,0 +1,8 @@
+{
+  "label": "Guía de Desarrollo",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Guía completa para desarrollar con Astro + Strapi. Comienza con la boilerplate para inicializar tu proyecto, luego aprende a programar en Astro y configura Strapi como tu CMS headless."
+  }
+}
